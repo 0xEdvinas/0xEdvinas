@@ -1,2 +1,1 @@
-
-[![0xEdvinas GitHub stats](https://github-readme-stats.vercel.app/api?username=0xEdvinas)](https://github.com/0xEdvinas/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xEdvinas&theme=dark&hide_border=true)](https://git.io/streak-stats)
