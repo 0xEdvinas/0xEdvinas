@@ -5,7 +5,7 @@
 
 ## 🌐 Socials
 
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"></img>
+<a href="https://tryhackme.com/p/edveikis"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"></img></a>
 <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"></img>
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img>
 
